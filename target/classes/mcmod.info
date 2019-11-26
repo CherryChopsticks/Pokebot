@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "pokebotbridge",
+        "name": "PokeBotBridge",
+        "version": "1.0-SNAPSHOT",
+        "description": "A bridge for the Bonbot discord bot and the pixelmon server to relay messages to each other",
+        "authorList": [
+            "Bonnie"
+        ],
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    }
+]
